@@ -1,0 +1,931 @@
+2022.10.09 19:57:47 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Suraif\Desktop\scala\.metals\lsp.trace.json or C:\Users\Suraif\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.09 19:57:48 INFO  logging to file C:\Users\Suraif\Desktop\scala\.metals\metals.log
+2022.10.09 19:57:48 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Suraif\Desktop\scala' for client Visual Studio Code 1.72.0.
+2022.10.09 19:57:50 INFO  time: initialize in 1.49s
+2022.10.09 19:57:51 WARN  Build server is not auto-connectable.
+2022.10.09 19:57:51 WARN  no build tool detected in workspace 'C:\Users\Suraif\Desktop\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.09 19:57:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 7:57:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Oct 09, 2022 7:57:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2022.10.09 19:58:19 INFO  no build target found for C:\Users\Suraif\Desktop\scala\function.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2022.10.09 19:58:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2022.10.09 19:58:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Oct 09, 2022 7:58:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2022.10.09 19:58:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 87
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+2022.10.09 19:58:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 108
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 104
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 116
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 133
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 138
+2022.10.09 19:58:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 7:58:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+2022.10.09 19:58:21 INFO  time: code lens generation in 29s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.59s
+2022.10.09 19:58:21 INFO  time: code lens generation in 2.02s
+2022.10.09 19:58:21 INFO  time: code lens generation in 2.08s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.33s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.2s
+2022.10.09 19:58:21 INFO  time: code lens generation in 2.17s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.25s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.95s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.93s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.48s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.79s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.85s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.65s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.86s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.81s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.89s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.36s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.63s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.83s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.54s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.99s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.39s
+2022.10.09 19:58:21 INFO  time: code lens generation in 2.12s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.97s
+2022.10.09 19:58:21 INFO  time: code lens generation in 2.04s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.43s
+2022.10.09 19:58:21 INFO  time: code lens generation in 2.15s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.88s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.7s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.72s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.28s
+2022.10.09 19:58:21 INFO  time: code lens generation in 1.76s
+2022.10.09 19:58:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:58:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:58:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:58:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:58:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:58:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:58:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:40 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 19:59:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:00:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:01:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:01:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:01:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:01:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 8:01:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 574
+2022.10.09 20:01:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:01:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:01:34 INFO  shutting down Metals
+2022.10.09 20:02:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Suraif\Desktop\scala\.metals\lsp.trace.json or C:\Users\Suraif\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.09 20:02:44 INFO  logging to file C:\Users\Suraif\Desktop\scala\.metals\metals.log
+2022.10.09 20:02:44 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Suraif\Desktop\scala' for client Visual Studio Code 1.72.0.
+2022.10.09 20:02:46 INFO  time: initialize in 1.75s
+2022.10.09 20:02:48 WARN  Build server is not auto-connectable.
+2022.10.09 20:02:48 WARN  no build tool detected in workspace 'C:\Users\Suraif\Desktop\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.09 20:02:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:02:51 INFO  no build target found for C:\Users\Suraif\Desktop\scala\function.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.09 20:02:53 INFO  time: code lens generation in 1.66s
+2022.10.09 20:02:53 INFO  time: code lens generation in 4.55s
+2022.10.09 20:02:53 INFO  time: code lens generation in 4.57s
+2022.10.09 20:03:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 8:03:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+2022.10.09 20:03:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:03:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:04:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:05:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 8:06:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+2022.10.09 20:06:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 8:06:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 630
+2022.10.09 20:06:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:06:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:07:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:08:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:08:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:08:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:08:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:08:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:09:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:09:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:09:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:09:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:09:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:09:55 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+Oct 09, 2022 8:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1092
+2022.10.09 20:09:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:10:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:22:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:23:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\function.scala
+2022.10.09 20:24:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\isEven.scala
+2022.10.09 20:25:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:25:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:25:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:26:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:27:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+Oct 09, 2022 8:28:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2180
+2022.10.09 20:28:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:28:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:29:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+Oct 09, 2022 8:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2379
+2022.10.09 20:29:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:31:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:32:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:32:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:32:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:33:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:33:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:33:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+Oct 09, 2022 8:33:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2730
+2022.10.09 20:33:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:33:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:34:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:34:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:34:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:34:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:37:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:38:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:55 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:39:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:40:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:40:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:40:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:40:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:40:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+2022.10.09 20:40:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\interest.scala
+Oct 09, 2022 8:42:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3193
+2022.10.09 20:43:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:43:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+Oct 09, 2022 8:44:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2499)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.isForComprehensionOwner$1(PcDocumentHighlightProvider.scala:163)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.collectNames$1(PcDocumentHighlightProvider.scala:178)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.$anonfun$4(PcDocumentHighlightProvider.scala:275)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1576)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1574)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1623)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1630)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1627)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1636)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1541)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.highlights(PcDocumentHighlightProvider.scala:276)
+
+2022.10.09 20:44:55 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:44:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:45:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+Oct 09, 2022 8:45:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2499)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.isForComprehensionOwner$1(PcDocumentHighlightProvider.scala:163)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.collectNames$1(PcDocumentHighlightProvider.scala:178)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.$anonfun$4(PcDocumentHighlightProvider.scala:275)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1554)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1568)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1576)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1574)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1623)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1630)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1627)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1636)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1541)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.highlights(PcDocumentHighlightProvider.scala:276)
+
+Oct 09, 2022 8:46:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2499)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.isForComprehensionOwner$1(PcDocumentHighlightProvider.scala:163)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.collectNames$1(PcDocumentHighlightProvider.scala:178)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.$anonfun$4(PcDocumentHighlightProvider.scala:275)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1554)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1568)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1576)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1574)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1623)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1630)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1627)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1636)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1541)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.highlights(PcDocumentHighlightProvider.scala:276)
+
+2022.10.09 20:46:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:46:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:46:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:46:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:46:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:47:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:47:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:47:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:47:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:48:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\gcd.scala
+2022.10.09 20:50:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:50:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:50:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:50:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:50:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:50:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 20:51:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:20:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:20:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:20:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:20:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:20:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:20:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+Oct 09, 2022 9:21:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4551
+2022.10.09 21:21:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:40 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:21:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:22:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:22:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:22:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:22:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:34:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:34:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:34:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:34:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:34:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:35:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:35:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:35:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:35:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:36:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:36:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:36:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:36:40 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:37:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\prime.scala
+2022.10.09 21:37:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:37:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:38:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:39:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\power.scala
+2022.10.09 21:42:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:42:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:40 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+Oct 09, 2022 9:43:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5875
+2022.10.09 21:43:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:53 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:43:59 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:44:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:44:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+Oct 09, 2022 9:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5955
+2022.10.09 21:44:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:44:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:44:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:44:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:44:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:45:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:46:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:46:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:46:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:46:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:46:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:47:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.09 21:47:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:47:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:48:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.09 21:49:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.10 06:27:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Suraif\Desktop\scala\.metals\lsp.trace.json or C:\Users\Suraif\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.10 06:27:13 INFO  logging to file C:\Users\Suraif\Desktop\scala\.metals\metals.log
+2022.10.10 06:27:13 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Suraif\Desktop\scala' for client Visual Studio Code 1.72.0.
+2022.10.10 06:27:18 INFO  time: initialize in 4.82s
+2022.10.10 06:27:20 WARN  Build server is not auto-connectable.
+2022.10.10 06:27:20 WARN  no build tool detected in workspace 'C:\Users\Suraif\Desktop\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.10 06:27:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.10 06:27:24 INFO  no build target found for C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.10 06:27:27 INFO  time: code lens generation in 6.76s
+2022.10.10 09:17:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\isEven.scala
+2022.10.10 09:17:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:17:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:17:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:17:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:18:55 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:19:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:32 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:35 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:21:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:22:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:22:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:22:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:22:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:22:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:22:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:23:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:23:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:23:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:23:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:23:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:23:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.10 09:32:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:32:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:33:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+Oct 10, 2022 9:34:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1038
+2022.10.10 09:34:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:34:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:35:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:35:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:35:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:35:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:35:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:35:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayPrint.scala
+2022.10.10 09:38:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 09:38:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 09:38:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 09:38:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:17:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:17:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:17:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:17:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:17:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:17:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:36 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:48 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:18:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:04 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+Oct 10, 2022 10:19:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1742
+2022.10.10 10:19:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:19:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:20:50 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:20:55 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:43 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:21:45 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:22:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:22:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:23:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:24:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:24:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:25:08 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:25:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:25:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:15 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:31 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+2022.10.10 10:28:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\ArrayRead.scala
+Oct 10, 2022 12:52:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2425
+2022.10.10 12:52:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:06 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:10 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+Oct 10, 2022 12:53:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2605
+2022.10.10 12:53:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:38 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:42 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:46 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:47 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:51 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:53:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:00 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:01 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+Oct 10, 2022 12:54:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2790
+2022.10.10 12:54:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:22 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:26 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:28 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:37 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:39 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:41 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:44 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:49 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:52 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:54 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:54:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:02 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:05 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:11 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:17 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:21 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:25 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:33 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:55:34 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+Oct 10, 2022 12:56:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Toplevel definition m is defined in
+  C:/Users/Suraif/Desktop/scala/Collections/getStudentTuple.scala
+and also in
+  C:/Users/Suraif/Desktop/scala/Collections/getStudentTuple.scala
+One of these files should be removed from the classpath.
+dotty.tools.dotc.core.TypeError: Toplevel definition m is defined in
+  C:/Users/Suraif/Desktop/scala/Collections/getStudentTuple.scala
+and also in
+  C:/Users/Suraif/Desktop/scala/Collections/getStudentTuple.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2435)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2399)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2455)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2014)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2065)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:811)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:703)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:879)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1023)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:925)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:925)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1023)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:137)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:195)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:75)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:86)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:75)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:63)
+
+2022.10.10 12:56:03 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:12 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:14 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:16 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:18 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:19 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:24 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:56:27 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:57:29 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:57:56 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:57:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:58:13 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:58:20 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.10 12:58:23 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.20 20:32:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Suraif\Desktop\scala\.metals\lsp.trace.json or C:\Users\Suraif\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.20 20:32:22 INFO  logging to file C:\Users\Suraif\Desktop\scala\.metals\metals.log
+2022.10.20 20:32:22 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Suraif\Desktop\scala' for client Visual Studio Code 1.72.0.
+2022.10.20 20:32:28 INFO  time: initialize in 6.2s
+2022.10.20 20:32:30 WARN  Build server is not auto-connectable.
+2022.10.20 20:32:30 WARN  no build tool detected in workspace 'C:\Users\Suraif\Desktop\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.20 20:32:30 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.20 20:32:38 INFO  no build target found for C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.20 20:32:41 INFO  time: code lens generation in 10s
+2022.10.20 20:34:47 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Suraif\Desktop\scala\.metals\lsp.trace.json or C:\Users\Suraif\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.20 20:34:49 INFO  logging to file C:\Users\Suraif\Desktop\scala\.metals\metals.log
+2022.10.20 20:34:49 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Suraif\Desktop\scala' for client Visual Studio Code 1.72.0.
+2022.10.20 20:34:54 INFO  time: initialize in 5.74s
+2022.10.20 20:34:57 WARN  Build server is not auto-connectable.
+2022.10.20 20:34:57 WARN  no build tool detected in workspace 'C:\Users\Suraif\Desktop\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.20 20:34:57 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala
+2022.10.20 20:35:02 INFO  no build target found for C:\Users\Suraif\Desktop\scala\Collections\getStudentTuple.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.20 20:35:04 INFO  time: code lens generation in 6.68s
+Oct 20, 2022 8:35:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.10.20 20:35:58 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Collections\Array.scala
+2022.10.20 20:36:07 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacciSeq.scala
+2022.10.20 20:36:09 WARN  no build target for: C:\Users\Suraif\Desktop\scala\Recursion\fibonacci.scala
+2022.10.20 20:36:30 INFO  shutting down Metals
